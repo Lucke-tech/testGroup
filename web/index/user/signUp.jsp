@@ -13,6 +13,10 @@
         <title>注册</title>
         <script src="${pageContext.request.contextPath}/js/jquery-3.2.1.js" type="text/javascript"></script>
         <script>
+            function empty() {
+
+            }
+
             window.onload=function(){
                 inputPass.oninvalid=function() {
                     inputPass.setCustomValidity("密码只能包括a-z,A-Z,0-9以及'_'");
