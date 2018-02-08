@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<UserInfo name="user3"> 
+  <Info> 
+    <userName>user3</userName>  
+    <password>654321</password> 
+  </Info>  
+  <cookies> 
+    <cookie>user3-484a3a3e6007450798b25a154b1116ce</cookie> 
+  </cookies>  
+  <Date>
+    <lastLoginDate>-</lastLoginDate>
+    <currentTime>2017/11/18 20:58:51</currentTime>
+  </Date>
+</UserInfo>

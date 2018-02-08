@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Users>
+    <User>
+        <Name>admin</Name>
+        <Password>Ldlzy#9110</Password>
+    </User>
+    <User>
+        <Name>user1</Name>
+        <Password>123456</Password>
+    </User>
+    <User>
+        <Name>lucke</Name>
+        <Password>9110</Password>
+    </User>
+</Users>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<UserInfo name="admin"> 
+  <Info> 
+    <userName>admin</userName>  
+    <password>Ldlzy#9110</password> 
+  </Info>  
+  <cookies> 
+    <cookie>admin-ee93cd2e4dc24945a1807c982b9063cf</cookie>  
+    <cookie>admin-917b96b4c96140d692209a14133a5238</cookie>  
+    <cookie>admin-388371f789ad4c11957b8f0357307cd3</cookie>  
+    <cookie>admin-d122ab62d5ba48228b5f89d771d9f202</cookie>  
+    <cookie>admin-0bf2dd30db8a41578cf51a741112ffa7</cookie> 
+  </cookies>  
+  <Date> 
+    <lastLoginDate>2017/11/21 21:25:30</lastLoginDate>  
+    <currentTime>2017/11/21 21:34:58</currentTime> 
+  </Date> 
+</UserInfo>

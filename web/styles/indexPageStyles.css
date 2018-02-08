@@ -1,0 +1,77 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background:url("../img/655990.jpg");
+    background-size:cover;
+}
+
+#loginform {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: fit-content;
+    height: fit-content;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+
+#loginform form .inputText {
+    outline:none;
+    width: 300px;
+    height: 40px;
+    border-color: black;
+}
+.content1 {
+    display: block;
+    margin: 3px;
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.content2 {
+    display: block;
+    margin: 3px;
+    width: 300px;
+    height: 40px;
+    text-align: right;
+}
+
+
+#signup {
+    background-color: #463D31;
+    color: ghostwhite;
+    border:0px;
+    height: 30px;
+    width: 70px;
+    outline:none;
+}
+
+#submit {
+    background-color: #463D31;
+    color: ghostwhite;
+    border:0px;
+    height: 30px;
+    width: 70px;
+    outline:none;
+}
+
+span {
+    float: left;
+    color: ghostwhite;
+}
+
+#submit:hover {
+    background-color: #A9AFBB;
+}
+
+#signup:hover {
+    background-color: #A9AFBB;
+}
+
+
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<UserInfo name="user1"> 
+  <Info> 
+    <userName>user1</userName>  
+    <password>123456</password> 
+  </Info>  
+  <cookies> 
+    <cookie>user1-d14bbe27b9d849bfbcf72609d866dab3</cookie>  
+    <cookie>user1-e56066edc9644c0280641fb3962f6ab5</cookie>  
+    <cookie>user1-3eca9e26bab04cbb86af0f6d93b30a7d</cookie>  
+    <cookie>user1-f7cc35189e9d4730b8d379c28d913878</cookie>  
+    <cookie>user1-6db3676f506147979202c3fb4b42057a</cookie>  
+    <cookie>user1-346f8ae89b604d728889ce909ba54fc0</cookie>  
+    <cookie>user1-e0bdba66dacc410a985bf345e2ffb862</cookie>  
+    <cookie>user1-082271b599da435c912d04ab0238bafe</cookie>  
+    <cookie>user1-5ed70bb7379742d9817d6a813df37d9c</cookie>  
+    <cookie>user1-7318722d386e4bb292521961c7137fc6</cookie>  
+    <cookie>user1-e712077f44494127bcff1dd43167e379</cookie>  
+    <cookie>user1-3bc8c8d877bb4df9a621c0f17f65be8d</cookie> 
+  </cookies>  
+  <Date> 
+    <lastLoginDate>2017/11/20 08:38:54</lastLoginDate>  
+    <currentTime>2017/11/20 08:45:54</currentTime> 
+  </Date> 
+</UserInfo>
